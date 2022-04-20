@@ -1,0 +1,32 @@
+{
+  "name": "etherion",
+  "private": true,
+  "version": "0.0.1",
+  "description": "React components library with native dark theme support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EtherionUI/etherion.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react ui",
+    "react ui library",
+    "react ui component",
+    "library",
+    "component",
+    "ui",
+    "etherion",
+    "EtherionUI"
+  ],
+  "author": "Nguyen Hai Nam <nghainam2000@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "tslint": "^6.1.3",
+    "typescript": "^4.6.3"
+  }
+}
